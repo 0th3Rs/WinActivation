@@ -1,6 +1,7 @@
+#RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Outfile=CompleteActivationxx86.Exe
-#AutoIt3Wrapper_Outfile_x64=CompleteActivationxx64.Exe
+#AutoIt3Wrapper_Outfile=CompleteActivationx86.Exe
+#AutoIt3Wrapper_Outfile_x64=CompleteActivationx64.Exe
 #AutoIt3Wrapper_Compile_Both=y
 #AutoIt3Wrapper_UseX64=y
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
